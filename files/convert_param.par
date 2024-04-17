@@ -1,0 +1,8 @@
+genotypename: output_qc.bed 
+snpname: output_qc.bim 
+indivname: output_qc.fam 
+outputformat: EIGENSTRAT 
+genotypeoutname: output.geno 
+snpoutname: output.snp 
+indivoutname: output.ind
+
