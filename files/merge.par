@@ -1,0 +1,13 @@
+geno1: output.geno
+snp1: output.snp
+ind1: output.ind
+
+geno2: v54.1.p1_1240K_public.geno
+snp2:  v54.1.p1_1240K_public.snp
+ind2:  v54.1.p1_1240K_public.ind
+
+outputformat: EIGENSTRAT
+genotypeoutname: Final.geno
+snpoutname: Final.snp
+indivoutname: Final.ind
+
