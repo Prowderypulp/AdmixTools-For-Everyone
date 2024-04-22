@@ -11,7 +11,7 @@ sudo cp -r $HOME/AdmixTools/bin/. /bin/
 cd $HOME/AdmixTools-For-Everyone
 wget https://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20231211.zip
 mkdir plink
-unzip https://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20231211.zip -d plink && cd plink
+unzip plink1-assets/plink_linux_x86_64_20231211.zip -d plink && cd plink
 sudo cp plink prettify /bin/
 cd ..
 
