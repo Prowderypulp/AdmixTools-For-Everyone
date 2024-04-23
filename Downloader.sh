@@ -6,7 +6,7 @@ git clone "https://github.com/DReichLab/AdmixTools"
 cd "$HOME/AdmixTools/src"
 make clobber
 make all
-sudo ake install
+sudo make install
 sudo cp -r $HOME/AdmixTools/bin/. /bin/
 cd $HOME/AdmixTools-For-Everyone
 wget https://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20231211.zip
@@ -18,3 +18,4 @@ cd ..
 
 
 echo "Hey! Your computer now have AdmixTools Capabilities. You can use qpAdm and qpWave as much as you like"
+
